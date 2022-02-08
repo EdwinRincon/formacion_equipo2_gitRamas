@@ -16,4 +16,5 @@ public class AdaptadorLampara implements Conectable {
 		lampara.off();
 	}
 
+	// Comentario ALBERT PERELLA CANELLES
 }
