@@ -1,6 +1,7 @@
 package com.formacion.adaptadorPattern;
 
 // Ordenador enciende - apaga
+//Edicion realizada por Fernando
 public class Ordenador implements Conectable {
 
 	private boolean encendida;
